@@ -33,4 +33,4 @@ To get started with the project, follow these steps:
 
 1. *Clone the Repository:*
    ```sh
-   git clone https://github.com/yourusername/RubiksCubeSolver.git
+   git clone https://github.com/yourusername/rUBIKS_sOLvER.git
